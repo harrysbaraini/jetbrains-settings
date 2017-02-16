@@ -3,17 +3,17 @@
     <property name="created">2017-02-16T10:17:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-16T10:26:28</property>
+    <property name="modified">2017-02-16T10:56:50</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
