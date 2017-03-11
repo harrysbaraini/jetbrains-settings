@@ -1,11 +1,4 @@
 <scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2017-02-07T11:49:38</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-07T17:17:36</property>
-    <property name="originalScheme">Material Theme - Default</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -15,7 +8,7 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
@@ -786,9 +779,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="Instance field">
-      <value />
-    </option>
     <option name="JAVA_COMMA">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -928,28 +918,10 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION">
-      <value />
-    </option>
-    <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
-      <value />
-    </option>
     <option name="KOTLIN_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
       </value>
-    </option>
-    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_RECEIVER">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_VALUE">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CONSTANT">
-      <value />
     </option>
     <option name="LABEL">
       <value>
