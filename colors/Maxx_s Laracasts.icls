@@ -66,12 +66,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ATTR_INTERNAL_CALL_ID">
-      <value>
-        <option name="FOREGROUND" value="a2cff5" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="c81414" />
@@ -1112,21 +1106,6 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME">
-      <value>
-        <option name="FOREGROUND" value="8888c6" />
-      </value>
-    </option>
-    <option name="REGEXP.BRACES">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="REGEXP.BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -1151,11 +1130,6 @@
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REGEXP.PARENTHS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
@@ -1190,25 +1164,10 @@
         <option name="BACKGROUND" value="2e3336" />
       </value>
     </option>
-    <option name="SASS_ATTRIBUTE">
-      <value>
-        <option name="FOREGROUND" value="6d9cbe" />
-      </value>
-    </option>
     <option name="SASS_COMMENT">
       <value>
         <option name="FOREGROUND" value="bc9455" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SASS_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-      </value>
-    </option>
-    <option name="SASS_DIRECTIVE">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
     <option name="SASS_MIXIN">
@@ -1220,11 +1179,6 @@
       <value>
         <option name="FOREGROUND" value="a5c261" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="SASS_RULE">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="SASS_STRING">
@@ -1285,21 +1239,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="Scala Type Alias">
-      <value>
-        <option name="FOREGROUND" value="4e807d" />
-      </value>
-    </option>
-    <option name="Scala Type parameter">
-      <value>
-        <option name="FOREGROUND" value="4e807d" />
-      </value>
-    </option>
     <option name="Static field">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
@@ -1323,12 +1262,6 @@
     <option name="String">
       <value>
         <option name="FOREGROUND" value="f36e3a" />
-      </value>
-    </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_TAG">
@@ -1396,12 +1329,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="VELOCITY_DIRECTIVE">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -1411,11 +1338,6 @@
     <option name="VELOCITY_NUMBER">
       <value>
         <option name="FOREGROUND" value="f36e3a" />
-      </value>
-    </option>
-    <option name="VELOCITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
@@ -1572,18 +1494,6 @@
       <value>
         <option name="FOREGROUND" value="a5c261" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="osmorc.attributeName">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="osmorc.directiveName">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="osmorc.headerName">
