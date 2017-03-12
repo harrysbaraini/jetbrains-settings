@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="Macro.Format and Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SaveAll" />
+</keymap>
