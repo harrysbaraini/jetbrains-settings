@@ -2,6 +2,12 @@
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="right" />
+  </action>
   <action id="SaveAll" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
