@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Macro.Format and Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="z" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="back_slash" />
+  </action>
+  <action id="SaveAll" />
+</keymap>
