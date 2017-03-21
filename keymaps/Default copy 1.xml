@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="right" />
+  </action>
+</keymap>
