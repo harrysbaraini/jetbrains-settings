@@ -2,8 +2,8 @@
   <component name="EditorSettings">
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
