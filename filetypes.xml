@@ -7,6 +7,8 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_bak" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".env.homolog" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
