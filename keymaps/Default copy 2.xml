@@ -2,6 +2,9 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
+  <action id="Cvs.Checkout">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="x" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Git.Branches">
