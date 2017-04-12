@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="9c5bdab8-ea37-4b2b-b4c7-a5a6e11e38d0" name="Collectible" url="http://collectible.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
