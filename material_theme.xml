@@ -1,0 +1,8 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColor" value="59a0cb" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="wallpaperSet" value="false" />
+    <option name="tabsHeight" value="36" />
+  </component>
+</application>
