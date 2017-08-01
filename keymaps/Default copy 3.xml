@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy 3" parent="Default for XWin">
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
