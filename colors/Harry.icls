@@ -2,11 +2,12 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fff3da" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
@@ -425,6 +426,14 @@
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="839496" />
+      </value>
+    </option>
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2aa198" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
