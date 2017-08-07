@@ -1,12 +1,12 @@
 <scheme name="Material Peacock" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="LINE_SPACING" value="1.8" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="5f7210" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -369,7 +369,10 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ff5d38" />
+        <option name="FOREGROUND" value="5370ff" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="5370ff" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -487,7 +490,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FOREGROUND" value="ccd4b1" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
