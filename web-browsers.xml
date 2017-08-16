@@ -6,5 +6,6 @@
     <browser id="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" name="Opera" family="OPERA" />
     <browser id="b1b2ec2c-20bd-4ee2-89c4-616db004bcd4" name="Yandex" family="CHROME" path="Yandex" active="false" />
     <browser id="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" name="Internet Explorer" family="EXPLORER" active="false" />
+    <browser id="4ecb6877-1f8e-4673-9722-b49808506dbe" name="Chromium" family="CHROME" path="chromium" />
   </component>
 </application>
