@@ -19,4 +19,10 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
 </keymap>
