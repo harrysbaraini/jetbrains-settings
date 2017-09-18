@@ -6,7 +6,6 @@
       <mapping pattern="UpdateTestCaseRequest" type="PLAIN_TEXT" />
       <mapping pattern="dock" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
