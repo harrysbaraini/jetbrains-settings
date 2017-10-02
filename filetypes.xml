@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing.example" type="PLAIN_TEXT" />
       <mapping pattern="UpdateTestCaseRequest" type="PLAIN_TEXT" />
