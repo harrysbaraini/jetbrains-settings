@@ -4,5 +4,6 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="wallpaperSet" value="false" />
     <option name="tabsHeight" value="36" />
+    <option name="defaultBackground" value="" />
   </component>
 </application>
