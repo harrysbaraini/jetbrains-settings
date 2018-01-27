@@ -7,6 +7,9 @@
       <webServer id="ef838df9-b120-40f7-afab-662c18faabb7" name="Anyshare - New" url="http://anyshare-new.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="95c8f090-3dc1-469c-8c18-fc5c2de82f68" name="Harry Blog" url="http://harry.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
