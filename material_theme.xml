@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="59a0cb" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="80cbc4" />
     <option name="tabsHeight" value="36" />
     <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
