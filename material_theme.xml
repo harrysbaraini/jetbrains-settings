@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="LIGHTER" />
     <option name="highlightColor" value="59a0cb" />
     <option name="highlightColorEnabled" value="true" />
     <option name="accentColor" value="80cbc4" />
