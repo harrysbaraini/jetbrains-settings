@@ -10,6 +10,9 @@
       <webServer id="95c8f090-3dc1-469c-8c18-fc5c2de82f68" name="Harry Blog" url="http://harry.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5995070a-6a98-46d9-97bc-dad62160a09e" name="Aplicative.me API" url="http://api.aplicativeme.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
