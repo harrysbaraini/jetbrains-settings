@@ -13,6 +13,9 @@
       <webServer id="5995070a-6a98-46d9-97bc-dad62160a09e" name="Aplicative.me API" url="http://api.aplicativeme.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="fb14bbb3-79aa-4ef3-b8c1-ae7e653deb3e" name="Artopus" url="http://artopus.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
