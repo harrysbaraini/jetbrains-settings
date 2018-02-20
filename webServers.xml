@@ -16,6 +16,9 @@
       <webServer id="fb14bbb3-79aa-4ef3-b8c1-ae7e653deb3e" name="Artopus" url="http://artopus.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="318ee9e0-5639-4a5c-8647-6afb03f7e325" name="Ex Gordinhos" url="http://exgordinhos.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
