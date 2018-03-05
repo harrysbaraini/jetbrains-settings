@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="LIGHTER" />
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="highlightColor" value="59a0cb" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
