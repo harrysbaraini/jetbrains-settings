@@ -19,6 +19,9 @@
       <webServer id="318ee9e0-5639-4a5c-8647-6afb03f7e325" name="Ex Gordinhos" url="http://exgordinhos.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e64fb48a-b4a1-47f0-aab7-1e40b53b26d8" name="Ottoman" url="https://ottoman.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
