@@ -22,6 +22,9 @@
       <webServer id="e64fb48a-b4a1-47f0-aab7-1e40b53b26d8" name="Ottoman" url="https://ottoman.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1eb5b71a-c07e-405c-8d62-ab81b5dd664f" name="Auct API" url="http://api.auct.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
