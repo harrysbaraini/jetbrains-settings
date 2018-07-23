@@ -1,11 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="highlightColor" value="59a0cb" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="80cbc4" />
     <option name="tabsHeight" value="36" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <option name="userId" value="6b52528b:164c6f50971:-7fff" />
   </component>
 </application>
