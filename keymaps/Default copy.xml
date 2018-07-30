@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Macro.Super Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SaveAll" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="down" />
   </action>
