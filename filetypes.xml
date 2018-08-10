@@ -11,6 +11,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".vueignore" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping ext="scss;" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
