@@ -28,6 +28,9 @@
       <webServer id="9dc291df-1e4d-418a-9014-77501b036b88" name="Chariots of Fire" url="http://cof.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="63a26767-a0a9-40b0-a112-305481d23f1b" name="Events System" url="http://events.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
