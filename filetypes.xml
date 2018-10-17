@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="bson" type="JSON" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
+      <mapping pattern="up" type="PLAIN_TEXT" />
+      <mapping pattern="dock" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing.example" type="PLAIN_TEXT" />
+      <mapping pattern="UpdateTestCaseRequest" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="graphql-admin" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".vueignore" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping ext="scss;" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
