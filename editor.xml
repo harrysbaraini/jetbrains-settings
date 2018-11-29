@@ -1,5 +1,6 @@
 <application>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Fira Code Medium" />
     <option name="LINE_SPACING" value="1.6" />
     <option name="USE_LIGATURES" value="true" />
@@ -28,9 +29,5 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
