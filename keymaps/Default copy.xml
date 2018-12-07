@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="IntroduceConstant" />
   <action id="Macro.Super Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
