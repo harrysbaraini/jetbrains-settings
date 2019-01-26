@@ -3,7 +3,7 @@
     <property name="created">2018-11-29T14:19:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2019-01-26T11:25:55</property>
+    <property name="modified">2019-01-26T11:27:43</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -28,4 +28,18 @@
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
