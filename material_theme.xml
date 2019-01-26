@@ -1,10 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="highlightColor" value="59a0cb" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="accentColor" value="84ffff" />
+    <option name="accentColor" value="d33682" />
     <option name="tabsHeight" value="36" />
     <option name="tabOpacity" value="46" />
     <option name="userId" value="6b52528b:164c6f50971:-7fff" />
