@@ -4,16 +4,16 @@
     <property name="created">2019-01-26T11:39:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2019-01-26T11:56:15</property>
+    <property name="modified">2019-01-26T12:27:55</property>
     <property name="originalScheme">Box UK Light (rainglow)</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="15b8ae" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
     <option name="CARET_COLOR" value="414f5c" />
-    <option name="CARET_ROW_COLOR" value="f7f7f7" />
+    <option name="CARET_ROW_COLOR" value="f7f6e8" />
     <option name="CONSOLE_BACKGROUND_KEY" value="ffffff" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
@@ -52,7 +52,6 @@
     <option name="SELECTED_INDENT_GUIDE" value="d9d9d9" />
     <option name="SELECTED_TEARLINE_COLOR" value="d9d9d9" />
     <option name="SELECTION_BACKGROUND" value="17c9d" />
-    <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="f5f5f5" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="ffffff" />
@@ -60,7 +59,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
-    <option name="WHITESPACES" value="f5f5f5" />
+    <option name="WHITESPACES" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f5f5f5" />
   </colors>
   <attributes>
@@ -765,6 +764,7 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="15b8ae" />
+        <option name="BACKGROUND" value="fdfbe8" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -2379,9 +2379,7 @@
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
-      <value>
-        <option name="BACKGROUND" value="ffffff" />
-      </value>
+      <value />
     </option>
     <option name="PHP_SEMICOLON">
       <value>
