@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SaveAll" />
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="down" />
   </action>
