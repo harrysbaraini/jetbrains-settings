@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe&quot; -NoExit -Command &quot;wsl&quot;" />
+    <option name="myShellPath" value="/bin/bash" />
   </component>
 </application>
