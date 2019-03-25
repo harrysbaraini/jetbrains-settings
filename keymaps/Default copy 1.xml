@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 1" parent="Default for XWin">
+  <action id="Macro.Super Save">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="SavaAs" />
+</keymap>
