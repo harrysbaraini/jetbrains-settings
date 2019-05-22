@@ -9,9 +9,11 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="ctrl close_bracket" second-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="up" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl close_bracket" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="left" />
   </action>
 </keymap>
