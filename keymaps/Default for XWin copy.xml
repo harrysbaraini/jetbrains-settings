@@ -1,11 +1,6 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="EditorCodeBlockEnd" />
-  <action id="IntroduceConstant" />
   <action id="Macro.Super Save">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="SaveAll" />
-  <action id="SaveDocument">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="SplitHorizontally">
