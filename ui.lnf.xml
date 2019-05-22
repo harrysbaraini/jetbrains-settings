@@ -1,7 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="FONT_FACE" value="Noto Sans Regular" />
-    <option name="HIDE_TOOL_STRIPES" value="true" />
-    <option name="SHOW_NAVIGATION_BAR" value="false" />
-  </component>
-</application>
